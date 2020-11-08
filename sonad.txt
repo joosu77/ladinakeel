@@ -1,0 +1,315 @@
+põld; maa(tükk):ager;agri-m
+sõprus:amicitia;amicitiae-f
+sõber:amicus;amici-m
+õhk; hingamine, hingus, hing:anima;animae-f
+vaim, hing, meel, julgus, kavatsus:animus;animi-m
+aasta:annus;anni-m
+vesi:aqua;aquae-f
+altar:ara;arae-f
+hõbe:argentum;argenti-n
+relvad:arma;armorum-n
+julgus, hulljulgus, jultumus:audacia;audaciae-f
+tuuleõhk, puhand, õhk:aura;aurae-f
+kuld:aurum;auri-n
+abi, toetus, abivahend:auxilium;auxilii-n
+ahnus, saamahimu:avaritia;avaritiae-f
+sõda, võitlus, heitlus, lahing:bellum;belli-n
+heategu, teene, soosing:beneficium;beneficii-n
+hüve, kasu:bonum;boni-n
+taevas:caelum;caeli-i
+väli, lagendik, väljak:campus;campi-m
+põhjus, kohtuasi, protsess:causa;causae-f
+üksmeel:concordia;concordiae-f
+nõupidamine, nõukogu:consilium;consilii-n
+vaidlus, tüli:controversia;controversiae-f
+seaduslik abielu:conubium;conubii-n
+suur hulk, rohkus, küllus:copia;copiae-f
+väeosad, sõjavägi, varandus:copiae;copiarum-f
+süü:culpa;culpae-f
+mure, hool:cura;curae-f
+jumalanna:dea;deae-f
+jumal:deus;dei-m
+väljend, sõna:dictum;dicti-n
+hooldus, püüdlikkus, tähelepanelikkus:diligentia;diligentiae-f
+kasvatus, õppimine, õpetus:disciplina;disciplinae-f
+rikkus:divitiae;divitiarum-f
+isand, peremees, valitseja:dominus;domini-m
+kink, kingitus, and:donum;doni-n
+juht, väejuht, valitseja:dux;ducis-mf
+kiri, läkitus:epistula;epistulae-f
+hobune:equus;equi-m
+koopia, eeskuju:exemplum;exempli-n
+jutt, lugu, kuulujutt, müüt:fabula;fabulae-f
+tegu, toiming, tõik:factum;facti-n
+kuuldus, kuulujutt:fama;famae-f
+pere:familia;familiae-f
+saatus:fatum;fati-n
+naine:femina;feminae-f
+raud:ferrum;ferri-n
+tütar:filia;filiae-f
+poeg:filius;filii-m
+piir, lõpp, eesmärk:finis;finis-m
+leek, tuli, lõõm:flamma;flammae-f
+jõgi:flumen;fluminis-n
+liit, leping:foedus;foederis-n
+kuju, vorm, ilu, kujutis:forma;formae-f
+saatus, juhus, õnn:fortuna;fortunae-f
+foorum, linnaväljak, turg:forum;fori-n
+vend:frater;fratris-m
+külmus, pakane:frigus;frigoris-n
+teravili, vili:frumentum;frumenti-n
+põgenemine, kulg, jooks:fuga;fugae-f
+matus:funus;funeris-n
+märatsemine, raev, hullus:furor;furoris-m
+rõõm, nauding:gaudium;gaudii-n
+hõim, rahvas, sugu:gens;gentis-f
+sugu, laad, liik, viis, päritolu:genus;generis-n
+mõõk:gladius;gladii-m
+kuulsus, au:gloria;gloriae-f
+võlu, arm, lahkus, tänu:gratia;gratiae-f
+tänuväärne, meeldiv:gratus;grata;gratum
+talv:hiems;hiemis-f
+inimene, mees:homo;hominis-mf
+au, austus, kuulsus:honor;honoris-m
+tund:hora;horae-f
+vaenlane, vastane:hostis;hostis-mf
+maa, maapind, muld:humus;humi-f
+tuli:ignis;ignis-m
+käskija, vlaitseja:imperator;imperatoris-m
+võim, jõud, riik, impeerium:imperium;imperii-n
+loomus, iseloom, andekus:ingenium;ingenii-n
+algus:initium;initii-n
+ülekohus, ebaüõiglus:iniuria;iniuriae-f
+kadedus:invidia;invidiae-f
+viha, raev:ira;irae-f
+tee, teekond:iter;itineris-n
+kohtunik:iudex;iudicis-m
+õigus:ius;iuris-n
+nooruk:iuvenis;iuvenis-mf
+töö, vaev, pingutus:labor;laboris-m
+pisar:lacrima;lacrimae-f
+kiitus, ülistus, austus:laus;laudis-f
+saadik:legatus;legati-m
+seadus:lex;legis-f
+raamat:liber;libri-m
+lapsed:liberi;liberorum-m
+vabadus:libertas;libertatis-f
+kirjatäht, täht:littera;litterae-f
+koht, seisund, seisus:locus;loci-m
+mäng, ajaviide, kool:ludus;ludi-m
+valgus:lumen;luminis-n
+valgus, päev, elu:lux;lucis-f
+pahe, õnnetus, häda:malum;mali-n
+meri:mare;maris-n
+ema:mater;matris-f
+mälu, mälestus:memoria;memoriae-f
+mõtlemisviis, meelelaad, mõistus:mens;mentis-f
+kartus, hirm:metus;metus-m
+sõdur:miles;militis-m
+halastus, kaastunne:misericordia;misericordiae-f
+müürid:moenia;moenium-n
+mägi:mons;montis-m
+viivitus, peatus, paus:mora;morae-f
+haigus, tõbi:morbus;morbi-m
+surm:mors;mortis-f
+komme, tava:mos;moris-f
+naine:mulier;mulieris-f
+müür, sein:murus;muri-m
+päritolu, hõim, rahvas:natio;nationis-f
+loodus, loomus, olemus:natura;naturae-f
+laev:navis;navis-f
+tegevus, töö, äri:negotium;negotii-n
+nimi, nimetus:nomen;nominis-n
+öö:nox;nocis-f
+arv, hulk, asend, seisus:numerus;numeri-m
+silm:oculus;oculi-m
+vihkamine, põlgus:odium;odii-n
+kohus, amet:officium;officii-n
+koorem, raskus, koormus:onus;oneris-n
+linn, kindlustus:oppidum;oppidi-n
+tegu, töö, vaev:opus;operis-n
+suu, keel, kõne, ava:os;oris-n
+jõudeaeg, vaba aeg:otium;otii-n
+vanem, ema, isa:parens;parentis-mf
+osa, jagu:pars;partis-f
+isa:pater;patris-m
+isamaa:patria;patriae-f
+rahu:pax;pacis-f
+raha,vara:pecunia;pecuniae-f
+oht, risk, katse:periculum;periculi-n
+jalg:pes;pedis-m
+karistus:poena;poenae-f
+sild:pons;pontis-m
+rahvas:populus;populi-m
+värav:porta;portae-f
+jõud, vägi, võim:potentia;potentiae-f
+saak, noos, rööv:praeda;praedae-f
+kaitse, abi:praesidium;praesidii-n
+lahing, võitlus:proelium;proelii-n
+arukus, tarkus:prudentia;prudentiae-f
+häbitunne, häbi, aukartus:pudor;pudoris-m
+poiss:puer;pueri-m
+võitlus, lahing:pugna;pugnae-f
+kuningavõim, võim, riik:regnum;regni-n
+kuningas, valitseja:rex;regis-m
+inimpõlv, ajastu:saeculum;saeculi-n
+tarkus, arukus:sapientia;sapientiae-f
+kalju, rahn:saxum;saxi-n
+kuritegu, roim:scelus;sceleris-n
+teadmine, tundumine, teadus:scientia;scientiae-f
+vanadus, vanus:senectus;senectutis-f
+rauk, vanur:senex;senis-mf
+arvamus, mõte, lause:sententia;sententiae-f
+kõnelus, kõne:sermo;sermonis-m
+ori:servus;servi-m
+märk, tähis, tunnus:signum;signi-n
+vaikimine, vaikus:silentium;silentii-n
+mets:silva;silvae-f
+päike, päev:sol;solis-m
+uni:somnus;somni-m
+õde:soror;sororis-f
+liisk, ennustus, saatus:sors;sortis-f
+ruum, suurus, vahe:spatium;spatii-n
+palk, tasu, teenistus:stipendium;stipendii-n
+püüdlus, taotlus, hool, uurimine:studium;studii-n
+laud, tahvel, kaart:tabula;tabulae-f
+katus, maja, elamu:tectum;tecti-n
+relv, oda:telum;teli-n
+aeg:tempus;temporis-n
+maa:terra;terrae-f
+segadus, tunglemine, rahvahulk:turba;turbae-f
+vari:umbra;umbrae-f
+linn:urbs;urbis-f
+tuul:ventus;venti-m
+sõna:verbum;verbi-n
+tõelisus, tõde:veritas;veritatis-f
+tee, tänav:via;viae-f
+võit:victoria;victoriae-f
+mees, inimene:vir;viri-m
+neitsi, neiu:virgo;virginis-f
+mehisus, vaprus, noorus:virtus;virtutis-f
+elu, eluviis:vita;vitae-f
+viga, eksimus, pahe:vitium;vitii-n
+hääl, heli, sõna, väljend:vox;vocis-f
+haav:vulnus;vulneris-n
+kibe, mõru:acerbus;acerba;acerbum
+vastas asuv, vaenulik:adversus;adversa;adversum
+haige, põdur:aeger;aegra;aegrum
+tasane, õiglane:aequus;aequa;aequum
+igavene, püsiv, surematu:aeternus;aeterna;aeternum
+võõras:alienus;aliena;alienum
+teine, muu:alius;alia;aliud
+teine (kahest), järgmine:alter;altera;alterum
+kõrge, sügav:altus;alta;altum
+sõbralik, meeldiv:amicus;amica;amicum
+kitsas, lühike, napp:angustus;angusta;angustum
+vana, muistne:antiquus;antiqua;antiquum
+karm, raske, tahumatu:asper;aspera;asperum
+tume, must, sünge:ater;atra;atrum
+õnnelik, rikas:beatus;beata;beatum
+hea, tubli:bonus;bona;bonum
+kallis:carus;cara;carum
+kindel, teatud(arv,aeg,koht):certus;certa;certum
+muu, teine, ülejäänud:ceterus;cetera;ceterum
+selge, puhas, kuulus:clarus;clara;clarum
+tihe, arvukas:creber;crebra;crebrum
+kogu, terve:cunctus;cuncta;cunctum
+ihaldav, himuline:cupidus;cupida;cupidum
+vääriline, kohane:dignus;digna;dignum
+erinev, vastupidine:diversus;diversa;diversum
+jumalik:divinus;divina;divinum
+õpetatud, haritud:doctus;docta;doctum
+kahtlev, ebakindel:dubius;dubia;dubium
+kõva, harimatu, raske:durus;dura;durum
+väljapaistev, oivaline:egregius;egregia;egregium
+vale, ekslik, võltsitud:falsus;falsa;falsum
+õnnelik, õnnetoov:felix;felicis
+usaldusväärne:fidus;fida;fidum
+naaber-:finitimus;finitima;finitimum
+kindel, tugev;firmus;firma;firmum
+tugev, vapper:fortis;forte
+raske, koormav:gravis;grave
+auväärne, tähtis:honestus;honesta;honestum
+inimlik, haritud:humanus;humana;humanum
+tundmatu:ignotus;ignota;ignotum
+ebakindel:incertus;incerta;incertum
+vaenulik:inimicus;inimica;inimicum
+õiglane; õige:iustus;iusta;iustum
+rõõmus, meeldiv:laetus;laeta;laetum
+lai, avar:latus;lata;latum
+vaba:liber;libera;liberum
+pikk:longus;longa;longum
+suur, tähtis:magnus;magna;magnum
+halb, paha:malus;mala;malum
+küps, valminud:maturus;matura;maturum
+vilets, õnnetu:miser;misera;miserum
+surelik, kaduv:mortalis;mortale
+hädavajalik, paratamatu:necessarius;necessaria;necessarium
+tuntud, kuulus, õilis:nobilis;nobile
+tuntud, tuttav:notus;nota;notum
+uus:novus;nova;novum
+pime, tume:obscurus;obscura;obscurum
+peidetud, varjatud:occultus;occulta;occultum
+iga, kõik, terve:omnis;omne
+väike, noor:parvus;parva;parvum
+vähene:paucus;pauca;paucum
+täis, täidetud; täielik:plenus;plena;plenum
+esimene:primus;prima;primum
+avalik, riiklik:publicus;publica;publicum
+ilus, kena:pulcher;pulchra;pulchrum
+puhas, puutumatu:purus;pura;purum
+rahulik, puhkav:quietus;quieta;quietum
+õige, õiglane, aus:rectus;recta;rectum
+ülejäänud, järelejäänud:reliquus;reliqua;reliquum
+püha, pühitsetud, neetud:sacer;sacra;sacrum
+raevunud, vihane:saevus;saeva;saevum
+püha, austusväärne, aulik:sanctus;sancta;sanctum
+terve, mõistlik:sanus;sana;sanum
+range, karm:severus;severa;severum
+rumal, loll:stultus;stulta;stultum
+kõrgeim, ülim:summus;summa;summum
+uhke, ülbe;superbus;superba;superbum
+kurb, nuker, sünge:tristis;triste
+kõik, kogu, terve:universus;universa;universum
+kasulik, tulus:utilis;utila
+tühi, vaba:vacuus;vacua;vacuum
+tugev, terve:validus;valida;validum
+kirju, erinev:varius;varia;varium
+tõeline:verus;vera;verum
+elav, elus:vivus;viva;vivum
+ajama, juhtima:ago
+kuulma:audio
+ütlema:dico
+juhtima:duco
+tegema:facio
+omama:habeo
+õigust mõistma:ius dicere
+olema:sum
+mujal:alibi
+hästi:bene
+miks:cur
+seejärel:deinde
+kaua:diu
+niisiis, seega:ergo
+asjatult:frustra
+mitte:haud
+seega, järelikult:igitur
+hommik, varahommikiul:mane
+liiga:nimis
+ei iialgi:numquam
+viimaks:postremo
+äkitselt:repente
+sagedasti:saepe
+küllalt, piisavalt:satis
+alati:semper
+hilja:sero
+nõnda, jaa:sic
+kohe, jalamaid:statim
+äkki, järsku:subito
+aga, kuid:at
+ja, ning:atque
+või:aut
+kas..või:aut..aut
+aga,ent:autquem
+kuigi, ehkki:quamquam
+ka, samuti:quoque
